@@ -30,8 +30,12 @@ export default Root;
         </pre>
       </div>
       <div>
-        <a href="/" className="cm" data-ms="0.5">
-          sample link
+        <a
+          href="https://github.com/cftang1/SmoothCursor"
+          className="cm"
+          data-ms="0.5"
+        >
+          Github Link
         </a>
       </div>
     </div>
