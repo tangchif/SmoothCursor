@@ -1,5 +1,10 @@
 React Smooth Cursor using Styled-Components
 
+Creates an animated indicator dot which can aid the user by changing shape to show different state changes depending on the underlying div.
+
+Circle position is calculated every frame by normalising the x and y positions relative to the mouse position every frame
+
+
 [**Live Demo**](https://sharp-clarke-472c63.netlify.app/)<br>
 
 [Create React App]
